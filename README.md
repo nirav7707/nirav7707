@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, folks!
 
 <!--
 **nirav7707/nirav7707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
